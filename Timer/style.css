@@ -1,0 +1,25 @@
+
+button {
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    background: grey;
+    font-size:20px;
+}
+
+#timer {
+    font-size: 80px;
+   text-align: center;
+}
+
+#buttons {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-51.6%, -45%);
+}
+
+#buttons li {
+    display: inline;
+    padding-left: 10px;
+}
